@@ -4,7 +4,8 @@ sys.modules["sqlite3"]=sys.modules.pop("pysqlite3")
 
 import streamlit as st
 import os
-
+import torch
+torch.classes.__path__ = []
 
 from agents.summerization_agent import summarizer
 from agents.action_extraction_agent import action_extracter
