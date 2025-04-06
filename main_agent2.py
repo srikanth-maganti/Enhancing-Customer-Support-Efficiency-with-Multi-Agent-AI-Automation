@@ -1,6 +1,7 @@
 import streamlit as st
 # import ollama
-
+import os
+os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
 
 from agents.summerization_agent import summarizer
 from agents.action_extraction_agent import action_extracter
