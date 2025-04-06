@@ -1,7 +1,7 @@
 fastapi==0.115.12
 uvicorn==0.29.0
 requests==2.32.3
-
+pysqlite3-binary>=0.5.2
 pydantic==2.11.1
 httpx==0.28.1
 
