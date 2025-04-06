@@ -3,4 +3,4 @@ autogen==0.8.4
 chromadb==0.6.3
 sentence-transformers==2.2.2
 pandas==2.2.3
-
+pysqlite3-binary
