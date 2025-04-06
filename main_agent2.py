@@ -1,5 +1,8 @@
 import streamlit as st
 # import ollama
+import sys
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
 from agents.summerization_agent import summarizer
 from agents.action_extraction_agent import action_extracter
 from agents.resolution_recommendation_agent import generate_resolution
