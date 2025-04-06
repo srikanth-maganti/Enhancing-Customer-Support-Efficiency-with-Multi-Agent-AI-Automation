@@ -1,0 +1,9 @@
+Conversation ID: TECH_004
+Category: Technical Support
+Sentiment: Anxious | Priority: High
+Customer: "Hello! My project data isn’t syncing between my laptop and tablet. Changes on one device don’t show up on the other. Can you help?"
+Agent: "Hi there! Let’s resolve this together. Are both devices logged into the same account? Could you share the sync logs?"
+Customer: "Yes, same account. Here’s a log from my tablet: [file attached]."
+Agent: "Thanks for sharing! The log shows a corrupted sync token. I’ll reset it manually. Go to Settings > Sync > Force Full Sync and wait 10 minutes. Let me know if it works!"
+Customer: "It’s syncing now! Will this happen again?"
+Agent: "Great news! A patch releasing next week will prevent this issue. Thanks for your patience!"

@@ -1,0 +1,9 @@
+Conversation ID: TECH_005
+Category: Technical Support
+Sentiment: Urgent | Priority: Critical
+Customer: "Hi, this is urgent! Your API is rejecting our payment gateway integration. Error: ‘Invalid SSL certificate.’ Our cert is valid and up-to-date!"
+Agent: "Hello! Let’s investigate immediately. Could you share the output from openssl s_client -connect yourgateway.com:443?"
+Customer: "Here’s the terminal output: [text]. See? No errors here."
+Agent: "Thank you! Our system requires TLS 1.3, but your server supports only up to TLS 1.2. Upgrading the protocol will resolve the authentication error."
+Customer: "Upgrading worked! Thanks for the quick fix!"
+Agent: "Happy to help! Don’t hesitate to reach out for future issues. Goodbye!"

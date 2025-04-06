@@ -1,0 +1,9 @@
+Conversation ID: TECH_003
+Category: Technical Support
+Sentiment: Annoyed | Priority: Critical
+Customer: "Hi, I’m really frustrated. Your smart home app crashes every time I try to connect my older thermostat model. It worked fine on my old phone!"
+Agent: "Hello! I apologize for the trouble. Could you confirm your phone model and app version?"
+Customer: "iPhone 15, app version 5.2.1. The thermostat is Model HT-2019."
+Agent: "Thank you for clarifying. Unfortunately, HT-2019 isn’t supported in versions after 5.0. We can roll back your app to 4.9 or offer a discount on a compatible thermostat. What works best for you?"
+Customer: "I’ll take the discount, but this is disappointing."
+Agent: "Understood. I’ll email the discount code shortly. We appreciate your patience!"

@@ -1,0 +1,9 @@
+Conversation ID: TECH_002
+Category: Technical Support
+Sentiment: Confused | Priority: Medium
+Customer: "Good morning! I’m having an issue where my app keeps saying ‘no internet connection,’ but my Wi-Fi is working fine. Other apps load normally."
+Agent: "Hi! Thanks for contacting us. Let’s check the app’s network permissions. Go to Settings > Apps > [App Name] > Permissions. Is ‘Local Network’ enabled?"
+Customer: "Hmm, it was off! I just turned it on, but still no luck."
+Agent: "No worries! Please clear the app cache: Settings > Storage > Clear Cache. Then log in again. Does that help?"
+Customer: "That fixed it! Thank you! Any idea why this happened suddenly?"
+Agent: "Glad to hear it! A recent update may have reset permissions. We’ll flag this to our dev team. Cheers!"

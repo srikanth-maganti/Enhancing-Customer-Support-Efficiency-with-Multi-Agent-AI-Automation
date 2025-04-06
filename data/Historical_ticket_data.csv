@@ -1,0 +1,17 @@
+﻿Ticket ID, Issue Category, Sentiment, Priority, Solution, Resolution Status, Date of Resolution,Resolution time,Team
+TECH_021, Software Installation Failure, Frustrated, High, Disable antivirus and retry installation, Resolved, 2025-03-17,27,Software
+TECH_022, Software Installation Failure, Frustrated, High, Download from direct link, Resolved, 2025-03-17,24,Software
+TECH_023, Software Installation Failure, Frustrated, High, Update to latest version of antivirus, Resolved, 2025-03-17,49,Software
+TECH_024, Network Connectivity Issue, Confused, Medium, Check app permissions for Local Network, Resolved, 2025-03-16,11,Network
+TECH_025, Network Connectivity Issue, Confused, Medium, Clear app cache and relog, Resolved, 2025-03-16,11,Network
+TECH_026, Network Connectivity Issue, Confused, Medium, Reinstall the app, Resolved, 2025-03-16,39,Network
+TECH_027, Device Compatibility Error, Annoyed, Critical, Rollback app to version 4.9, Resolved, 2025-03-15,44,Technical Support
+TECH_028, Device Compatibility Error, Annoyed, Critical, Offer a discount on a compatible thermostat, Resolved, 2025-03-15,31,Technical Support
+TECH_029, Device Compatibility Error, Annoyed, Critical, Contact thermostat support for an update, Resolved, 2025-03-15,52,Technical Support
+TECH_030, Account Synchronization Bug, Anxious, High, Reset sync token manually, Resolved, 2025-03-14,36,Technical Support
+TECH_031, Account Synchronization Bug, Anxious, High, Force Full Sync on both devices, Resolved, 2025-03-14,32,Technical Support
+TECH_032, Account Synchronization Bug, Anxious, High, Clear app cache and relog, Resolved, 2025-03-14,39,Technical Support
+TECH_033, Payment Gateway Integration Failure, Urgent, Critical, Upgrade server to TLS 1.3, Resolved, 2025-03-13,42,Billing
+TECH_034, Payment Gateway Integration Failure, Urgent, Critical, Verify SSL certificate settings, Resolved, 2025-03-13,54,Billing
+TECH_035, Payment Gateway Integration Failure, Urgent, Critical, Use a different gateway API, Resolved, 2025-03-13,60,Billing
+TECH_036, Payment Gateway Integration Failure, Urgent, Critical, Check server firewall settings, Resolved, 2025-03-13,46,Billing

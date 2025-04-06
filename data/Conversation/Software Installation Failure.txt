@@ -1,0 +1,9 @@
+Conversation ID: TECH_001
+Category: Technical Support
+Sentiment: Frustrated | Priority: High
+Customer: "Hi there! I’ve been trying to install the latest update for your design software for hours. It keeps failing at 75% with an ‘unknown error.’ What’s wrong?"
+Agent: "Hello! Thank you for reaching out. Let me help troubleshoot. Could you share a screenshot of the error message and confirm your operating system version?"
+Customer: "Sure, it’s Windows 11. Here’s the screenshot: [image link]. I’ve restarted twice, same issue."
+Agent: "Thank you for the details. This is a known conflict with third-party antivirus tools. Could you temporarily disable your antivirus and retry? I’ll also send a direct download link as a workaround."
+Customer: "Oh, disabling the antivirus worked! Installation completed. Thanks for your help!"
+Agent: "You’re welcome! Let us know if you need further assistance. Have a great day!"
