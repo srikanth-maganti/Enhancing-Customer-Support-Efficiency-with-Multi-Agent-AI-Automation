@@ -24,3 +24,4 @@ scikit-learn==1.6.1
 
 python-dotenv==1.1.0
 rich==14.0.0
+autogen==0.8.4
