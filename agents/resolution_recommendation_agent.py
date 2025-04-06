@@ -3,6 +3,9 @@ import chromadb
 import os
 from gen_model import run
 from sentence_transformers import SentenceTransformer
+import sys
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
 os.environ["STREAMLIT_WATCHER_TYPE"] = "none"
 
 
