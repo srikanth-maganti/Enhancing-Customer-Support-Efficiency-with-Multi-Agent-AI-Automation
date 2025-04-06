@@ -1,9 +1,12 @@
 __import__("pysqlite3")
 import sys
 sys.modules["sqlite3"]=sys.modules.pop("pysqlite3")
+import os
+from huggingface_hub import login
+
+login(os.environ["HUGGINGFACEHUB_API_TOKEN"])
 
 import streamlit as st
-import os
 import torch
 torch.classes.__path__ = []
 
