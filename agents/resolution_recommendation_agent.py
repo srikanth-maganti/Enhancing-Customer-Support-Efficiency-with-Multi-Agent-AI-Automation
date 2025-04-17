@@ -11,7 +11,8 @@ db_client = chromadb.PersistentClient(path="./chroma_db")
 collection = db_client.get_or_create_collection(name="ticket_resolutions")
 
 
-embedder = SentenceTransformer('all-MiniLM-L6-v2')
+
+embedder = SentenceTransformer('./local_models/all-MiniLM-L6-v2')
 
 def embed_text(text):
     """Generate embedding for text using Ollama"""

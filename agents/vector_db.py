@@ -10,7 +10,7 @@ df = pd.read_csv(file_path)
 df.columns = df.columns.str.strip()
 
 # Initialize ChromaDB client
-db_client = chromadb.PersistentClient(path="../chroma_db")
+db_client = chromadb.PersistentClient(path="./chroma_db")
 collection = db_client.get_or_create_collection(name="ticket_resolutions")
 embedder = SentenceTransformer('all-MiniLM-L6-v2')
 # Load Ollama model

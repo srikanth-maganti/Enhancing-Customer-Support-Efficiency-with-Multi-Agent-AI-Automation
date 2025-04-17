@@ -7,7 +7,8 @@ from gen_model import run
 db_client = chromadb.PersistentClient(path="./chroma_db")
 collection = db_client.get_or_create_collection(name="ticket_resolutions")
 
-embedder = SentenceTransformer('all-MiniLM-L6-v2')
+
+embedder = SentenceTransformer('./local_models/all-MiniLM-L6-v2')
 
 
 import pandas as pd
