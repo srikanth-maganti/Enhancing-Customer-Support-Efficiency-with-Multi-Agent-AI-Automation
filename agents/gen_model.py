@@ -9,7 +9,7 @@ def run(prompt):
         model_name="gemini-2.0-flash",
         generation_config={
             "stop_sequences": ["***"],
-            "max_output_tokens": 100,
+            "max_output_tokens": 200,
             "temperature": 0.9,
             "top_p": 1,
             "top_k": 1,
